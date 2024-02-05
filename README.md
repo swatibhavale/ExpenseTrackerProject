@@ -1,5 +1,5 @@
 # Expense Tracker 
-This is simple console base java project to track expenses using Collection Framework, Exception handling , OOPs
+This is simple console base java project to track expenses created using Collection Framework, Exception handling , OOPs.
 <h4>Features</h4>
 <ul>
   <li>
